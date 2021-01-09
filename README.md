@@ -41,7 +41,7 @@ This package is being developed at the University of Texas in the Texas Center f
 
 * **Travis Salomaki** - Ph.D. student working with Michael Pyrcz at The University of Texas at Austin. Improving package docs.  Thank you Travis!
 
-* **Javier Santos** - one of Michael Pyrcz's graduate students contributed the post processing algorithm for summarizing over multiple realizations.  Thank you Javier!
+* **Javier Santos** - one of Michael Pyrcz's graduate students contributed the post processing algorithm for summarizing over multiple realizations.  Thank you Javier
 
 ## Package Inventory
 
